@@ -1,7 +1,7 @@
 {
-  "name": "Дневник питания",
-  "short_name": "Дневник",
-  "description": "Молниеносная запись еды: чипсы частых продуктов, структура по дням, аналитика и экспорт для ИИ",
+  "name": "Едник",
+  "short_name": "Едник",
+  "description": "Быстрая запись еды: т9 с частыми продуктами, аналитика и экспорт для ИИ. Работает офлайн.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -10,8 +10,21 @@
   "theme_color": "#f7f7f5",
   "lang": "ru",
   "icons": [
-    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "./icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
