@@ -1,2 +1,2 @@
-:HL["/food-diary/_next/static/chunks/35784ef2988f1923.css","style"]
-0:{"buildId":"btFaLj8TeFvbL7Y7yEfzj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/food-diary/_next/static/chunks/48ca76b1adcc228f.css","style"]
+0:{"buildId":"ckmFFMt56ZMhysAndp0Kf","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
